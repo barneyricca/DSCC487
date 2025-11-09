@@ -15,3 +15,4 @@ aovp_bpr <- function(formula,
     aovp(formula,
          data))
 }
+

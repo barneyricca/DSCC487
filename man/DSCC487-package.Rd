@@ -8,6 +8,14 @@
 \description{
 This project contains miscellanseous functions and several datasets to be used in DSCC 487.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/barneyricca/DSCC487}
+  \item Report bugs at \url{https://github.com/barneyricca/DSCC487/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Barney Ricca \email{barneyricca@gmail.com}
 
