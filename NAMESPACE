@@ -2,3 +2,4 @@
 
 export(aovp_bpr)
 importFrom(lmPerm,aovp)
+importFrom(lmPerm,lmp)
