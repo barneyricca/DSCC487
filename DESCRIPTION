@@ -1,0 +1,10 @@
+Package: DSCC487
+Title: Datasets and miscellaneous functions for DSCC 487.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Barney", "Ricca", , "barneyricca@gmail.com", role = c("aut", "cre"))
+Description: This project contains miscellanseous functions and several datasets to be used in DSCC 487.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
