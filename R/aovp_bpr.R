@@ -7,8 +7,7 @@
 #' @export
 
 aovp_bpr <- function(formula,
-                     data = NULL,
-                     perm = "Exact") {
+                     data = NULL) {
   # This function is simply a wrapper around lmPerm::aovp(), and so it is
   #  superfluous. It was written as a way to establish the package for DSCC 487,
   #  and does NOT include validation or other error trapping.

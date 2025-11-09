@@ -4,7 +4,7 @@
 \alias{aovp_bpr}
 \title{Wrap around lmPerm::aovp()}
 \usage{
-aovp_bpr(formula, data = NULL, perm = "Exact")
+aovp_bpr(formula, data = NULL)
 }
 \arguments{
 \item{formula}{A valid R formula}
