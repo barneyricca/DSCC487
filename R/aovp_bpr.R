@@ -4,6 +4,7 @@
 #' @param data Data (with at least two columns)
 #'
 #' @return An aovp object
+#'
 #' @export
 
 aovp_bpr <- function(formula,
